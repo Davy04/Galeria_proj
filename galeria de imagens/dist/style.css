@@ -34,7 +34,7 @@ body {
   position: absolute;
   width: 60vw;
   height: 60vh;
-  top: 40%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 0;
@@ -84,8 +84,8 @@ body {
 }
 
 button {
-  display: inline-block;
-  /* display: none; */
+  /* display: inline-block; */
+  display: none; 
   outline: none;
   border: none;
   padding: 8px 14px;
